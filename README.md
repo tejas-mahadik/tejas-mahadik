@@ -1,16 +1,35 @@
-## Hi there 👋
+# Tejas Mahadik
 
-<!--
-**tejas-mahadik/tejas-mahadik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I Work With Data — But I Think in Business.
 
-Here are some ideas to get you started:
+Most dashboards show numbers.  
+I focus on what decisions those numbers should drive.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### What I Actually Do
+
+• Translate messy data into structured intelligence  
+• Build dashboards that answer real business questions  
+• Design analytical models that reduce decision uncertainty  
+
+---
+
+### My Approach
+
+1. Understand the business problem  
+2. Clean & model the data  
+3. Build analytical logic (DAX / SQL / Python)  
+4. Deliver insights, not just visuals  
+
+---
+
+### Current Focus
+
+Designing decision-driven BI systems  
+Improving analytical storytelling  
+Building portfolio projects with measurable business impact  
+
+---
+
+📍 India  
